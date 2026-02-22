@@ -1,5 +1,4 @@
 # AI Innovation Deployed Projects Portfolio
-
 สวัสดีครับ ผม **Khwanchai**  
 Portfolio นี้รวบรวมโครงการ AI ที่ผมพัฒนาและ **Deploy จริงใน Production** (หรือ Prototype ที่ simulate Production ได้) โดยเน้น domain การเงิน/ธนาคาร
 

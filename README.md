@@ -1,8 +1,7 @@
 # AI Innovation Deployed Projects Portfolio
 
 สวัสดีครับ ผม **Khwanchai**  
-Portfolio นี้รวบรวมโครงการ AI ที่ผมพัฒนาและ **Deploy จริงใน Production** (หรือ Prototype ที่ simulate Production ได้) โดยเน้น domain การเงิน/ธนาคาร เพื่อใช้ในการสัมภาษณ์ตำแหน่ง **ผู้อำนวยการฝ่าย AI Innovation** ที่ธนาคารออมสิน
-
+Portfolio นี้รวบรวมโครงการ AI ที่ผมพัฒนาและ **Deploy จริงใน Production** (หรือ Prototype ที่ simulate Production ได้) โดยเน้น domain การเงิน/ธนาคาร
 ## โครงการหลัก (Production-Focused)
 
 1. **Real-time Fraud Detection Pipeline**  
